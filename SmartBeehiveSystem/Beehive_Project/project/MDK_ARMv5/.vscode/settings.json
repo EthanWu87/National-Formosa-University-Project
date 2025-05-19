@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "led.h": "c",
+    "string.h": "c",
+    "ds999.h": "c",
+    "fsr400.h": "c",
+    "pwm.h": "c",
+    "n20.h": "c",
+    "ht32.h": "c",
+    "delay.h": "c",
+    "am2320.h": "c",
+    "ht32_board.h": "c",
+    "rylr896.h": "c",
+    "hx711.h": "c"
+  }
+}

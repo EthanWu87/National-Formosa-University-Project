@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "ht32.h": "c",
+    "am2320.h": "c",
+    "string.h": "c",
+    "ht32_board.h": "c",
+    "sim7600x.h": "c",
+    "rylr896.h": "c",
+    "stdio.h": "c",
+    "ht24lc64.h": "c",
+    "bftm.h": "c",
+    "stdlib.h": "c",
+    "delay.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
